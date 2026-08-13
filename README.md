@@ -1,5 +1,9 @@
 # 💫 About Me:
-Enthusiastic and dedicated junior developer with a strong foundation in programming, algorithms,<br>and web development. Proficient in Python and C, with experience in academic projects such as<br>software development, data structures, and database management. Adept at problem-solving and<br>collaborating in team projects, eager to contribute to innovative solutions in the tech industry while<br>continuously learning emerging backend technologies.
+Full Stack Developer and AI/ML enthusiast with hands-on experience in building scalable web
+applications and AI-powered solutions. Skilled in Python, React.js, Next.js, SQL, PostgreSQL,
+MongoDB, and Docker. Familiar with REST APIs, WebSocket communication, database
+management, and modern web development practices, with a passion for building efficient and
+user-focused applications.
 
 
 ## 🌐 Socials:
